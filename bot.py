@@ -1,10 +1,4 @@
-"""
-bot.py — Twitter/X RSS → Discord Embed Bot
-Polls an RSS feed for @beardedhost and posts new tweets as embeds.
-
-Dependencies:
-    pip install -r requirements.txt
-"""
+# pip install -r requirements.txt 
 
 import os
 import discord
