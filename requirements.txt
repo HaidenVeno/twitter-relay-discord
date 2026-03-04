@@ -1,0 +1,4 @@
+discord.py>=2.7.1
+feedparser>=6.0.12
+aiohttp>=3.13.3
+python-dotenv>=1.2.2
